@@ -1,0 +1,5 @@
+carrier_id,carrier_name,service_level
+CAR01,SwiftShip,Next Day
+CAR02,ParcelNorth,Standard
+CAR03,National Freight,Economy
+CAR04,RapidRoute,Next Day
